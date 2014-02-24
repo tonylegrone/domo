@@ -1223,7 +1223,7 @@ disabled look for disabled choices in the results dropdown
 
 /* line 393, ../../assets/scss/partials/_select2.scss */
 .select2-container-multi .select2-choices .select2-search-field input.select2-active {
-  background: white url("select2-spinner.gif") no-repeat 100% !important; }
+  background: white url("../images/select2-spinner.gif") no-repeat 100% !important; }
 
 /* line 397, ../../assets/scss/partials/_select2.scss */
 .select2-default {
