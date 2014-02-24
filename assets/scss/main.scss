@@ -41,7 +41,7 @@
   @import "modules/extends";
 
   // Import Bourbon & Neat Grid System
-  @import "bourbon";
+  @import "bourbon/bourbon";
   @import "layout/grid-settings";
   @import "neat";
   @import "layout/layout";
