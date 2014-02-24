@@ -45,9 +45,9 @@
   @import "neat/neat";
   @import "layout/grid-settings";
   @import "layout/layout";
+  @import "layout/normalize";
 
   // Partials
-  @import "../../bower_components/modularized-normalize-scss/normalize";
   @import "typography/typography";
   @import "forms/forms";
   @import "partials/jvfloat";
